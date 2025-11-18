@@ -55,7 +55,7 @@ dependencies:
 #  local_auth: ^1.1.8
 
   # icons
-  material_design_icons_flutter: ^4.0.5955
+ 
   font_awesome_flutter: ^9.1.0
   flutter_boxicons: ^3.0.0
   icofont_flutter: ^1.4.0
