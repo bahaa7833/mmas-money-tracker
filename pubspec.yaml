@@ -34,7 +34,7 @@ dependencies:
   firebase_core: ^1.8.0
   shared_preferences: ^2.0.8
   sqflite: ^2.0.0+4
-  intl: ^0.17.0
+  intl: ^0.20.2
   provider: ^5.0.0
   flutter_screenutil: ^5.0.0+2
   flutter_login: ^2.2.1
